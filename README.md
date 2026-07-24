@@ -13,16 +13,6 @@ I believe in:
 ---
 ## 🔥 Featured Projects
 
-
-| Feature | Status |
-|---------|--------|
-| AES-256 Encryption | ✅ |
-| Dark Theme | ✅ |
-| Spell Checking | ✅ |
-| Rich Text (Bold/Italic/Color) | ✅ |
-| Timestamp per Entry | ✅ |
-| Edit & Rewrite Support | ✅ |
-
 > **A personal journal that actually keeps your secrets safe.**  
 > Write freely. Encrypt fearlessly.
 
@@ -30,13 +20,6 @@ I believe in:
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/moscow_professor/cryptojournal)
 
 ---
-
-| Feature | Status |
-|---------|--------|
-| Telegra.ph Image Extraction | ✅ |
-| NSFW Content Detector | ✅ |
-| Lightweight & Fast | ✅ |
-| Works on Any Device | ✅ |
 
 > **Automatically fetch images from Telegra.ph — with built-in NSFW filtering.**  
 > Because content should be safe and accessible.
