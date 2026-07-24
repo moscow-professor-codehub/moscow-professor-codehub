@@ -19,7 +19,6 @@ I believe in:
 [![Download](https://img.shields.io/badge/⬇️_Download_Latest-2D3748?style=for-the-badge)](https://github.com/moscow_professor/cryptojournal/releases)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/moscow_professor/cryptojournal)
 
----
 
 > **Automatically fetch images from Telegra.ph — with built-in NSFW filtering.**  
 > Because content should be safe and accessible.
