@@ -2,9 +2,7 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Subscribe_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscow_professor)
 [![GitHub followers](https://img.shields.io/github/followers/moscow-professor-codehub?style=for-the-badge&logo=github&color=181717)](https://github.com/moscow-professor-codehub)
-
 ---
-
 ## About Me
 Python developer passionate about **privacy**, **cryptography**, and **useful desktop tools**.
 I believe in:
@@ -13,7 +11,6 @@ I believe in:
 - 📦 **Open source** for everyone
 - 💬 **Community feedback** that makes products better
 ---
-
 ## 🔥 Featured Projects
 
 ### [![CryptoJournal](https://img.shields.io/badge/CryptoJournal-🔐_Encrypted_Journal-2D3748?style=for-the-badge&logo=python&logoColor=white)](https://github.com/moscow-professor-codehub/cryptojournal)
@@ -52,28 +49,9 @@ I believe in:
 
 ---
 
-
-
-## Connect With Me
-[![Telegram](https://img.shields.io/badge/📱_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscow_professor)
-[![Telegram Chat](https://img.shields.io/badge/💬_Chat_with_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscow_professor)
-[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moscow-professor-codehub)
-
----
-
 ## What I'm Working On Right Now
 - 🔄 Improving CryptoJournal UI with **gray-dark theme**
 - 🧪 Adding **multi-language support**
 - 🤖 Building an **auto-tagging system** for journal entries
 - 📦 Packaging apps for **Windows/Linux/Mac**
 
----
-
-## 📢 Support My Work
-
-
-
-> **Every view, every star, every subscriber — it all fuels the next project.**  
-> Thank you for being here. 🙏
-
----
