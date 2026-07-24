@@ -13,7 +13,6 @@ I believe in:
 ---
 ## 🔥 Featured Projects
 
-### [![CryptoJournal](https://img.shields.io/badge/CryptoJournal-🔐_Encrypted_Journal-2D3748?style=for-the-badge&logo=python&logoColor=white)](https://github.com/moscow-professor-codehub/cryptojournal)
 
 | Feature | Status |
 |---------|--------|
@@ -31,8 +30,6 @@ I believe in:
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/moscow_professor/cryptojournal)
 
 ---
-
-### [![Telegraph Parser](https://img.shields.io/badge/Telegraph_Parser-📸_Image_Scraper-1A1A2E?style=for-the-badge&logo=python&logoColor=white)](https://github.com/moscow-professor-codehub/telegraph-parser)
 
 | Feature | Status |
 |---------|--------|
