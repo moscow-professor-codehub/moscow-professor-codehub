@@ -1,24 +1,17 @@
 # Moscow Professor
 
-> *"Building tools that matter. One commit at a time."*
-
 [![Telegram Channel](https://img.shields.io/badge/Subscribe_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscow_professor)
 [![GitHub followers](https://img.shields.io/github/followers/moscow-professor-codehub?style=for-the-badge&logo=github&color=181717)](https://github.com/moscow-professor-codehub)
 
 ---
 
 ## About Me
-
 Python developer passionate about **privacy**, **cryptography**, and **useful desktop tools**.
-
 I believe in:
 - 🔒 **Privacy-first** software
 - 🎨 **Beautiful** interfaces that don't hurt your eyes
 - 📦 **Open source** for everyone
 - 💬 **Community feedback** that makes products better
-
-> *"40 views and 0 subscribers? That means I need to make something truly unforgettable."*
-
 ---
 
 ## 🔥 Featured Projects
@@ -84,11 +77,3 @@ I believe in:
 > Thank you for being here. 🙏
 
 ---
-
-<div align="center">
-  
-### 🚀 *Code. Create. Inspire.*
-
-**@moscow_professor** • 2026
-
-</div>
