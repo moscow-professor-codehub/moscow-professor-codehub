@@ -1,4 +1,4 @@
-# 🧑‍💻 Moscow Professor
+# Moscow Professor
 
 > *"Building tools that matter. One commit at a time."*
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍🔬 About Me
+## About Me
 
 Python developer passionate about **privacy**, **cryptography**, and **useful desktop tools**.
 
@@ -59,33 +59,16 @@ I believe in:
 
 ---
 
-## 🧰 Tech Stack
 
-| Language | Tools & Libraries |
-|----------|-------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Cryptography, Tkinter/PyQt, BeautifulSoup |
-| ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) | README, Documentation |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Version Control |
 
----
-
-## 📊 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moscow_professor&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moscow-professor-codehub&layout=compact&theme=dark&hide_border=true) |
-|:---:|:---:|
-
----
-
-## 📱 Connect With Me
-
+## Connect With Me
 [![Telegram](https://img.shields.io/badge/📱_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscow_professor)
 [![Telegram Chat](https://img.shields.io/badge/💬_Chat_with_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscow_professor)
 [![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moscow-professor-codehub)
 
 ---
 
-## 💡 What I'm Working On Right Now
-
+## What I'm Working On Right Now
 - 🔄 Improving CryptoJournal UI with **gray-dark theme**
 - 🧪 Adding **multi-language support**
 - 🤖 Building an **auto-tagging system** for journal entries
@@ -96,7 +79,6 @@ I believe in:
 ## 📢 Support My Work
 
 
-|:---:|:---:|:---:|
 
 > **Every view, every star, every subscriber — it all fuels the next project.**  
 > Thank you for being here. 🙏
