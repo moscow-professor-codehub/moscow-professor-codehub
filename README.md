@@ -23,8 +23,8 @@ I believe software should be:
 > A secure, encrypted diary application with rich text formatting.  
 > Write freely, encrypt fearlessly with Fernet (AES‑128‑CBC).
 
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/moscow-professor-codehub/crypto-journal)
-[![Download](https://img.shields.io/badge/⬇️_Download_Latest-2D3748?style=for-the-badge)](https://github.com/moscow-professor-codehub/crypto-journal/releases)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/moscow-professor-codehub/CryptoJournal)
+[![Download](https://img.shields.io/badge/⬇️_Download_Latest-2D3748?style=for-the-badge)](https://github.com/moscow-professor-codehub/CryptoJournal/releases)
 
 ---
 
